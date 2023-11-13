@@ -23,6 +23,7 @@ stapp02 ansible_host=172.16.238.11 ansible_user=steve ansible_ssh_pass=Am3ric@ a
 stapp03 ansible_host=172.16.238.12 ansible_user=banner ansible_ssh_pass=BigGr33n ansible_ssh_common_args='-o StrictHostKeyChecking=no'
 ```
 - Test ping:
+  
 ![image](https://github.com/Tcarters/Projects-solution-at-KodeKloud/assets/71230412/83d7ed33-ec6d-4aec-a364-aff0dd182e5c)
 
 
